@@ -3,7 +3,7 @@ layout: default
 title: Главная
 ---
 
-[Напишите мне](mailto:моя почта - @lkuznecov1304@gmail.com)
+[Напишите мне](mailto:@lkuznecov1304@gmail.com)
 
 # Как устроено доменное имя?
 
